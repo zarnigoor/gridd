@@ -275,6 +275,7 @@ body {
   grid-template-rows: repeat(5, );
   padding: 9rem;
   gap: 1rem;
+  
 }
 
 #app6 div {
